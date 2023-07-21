@@ -49,7 +49,8 @@ main h1 {
 }
 
 main p {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     color: #7D889E;
     text-align: center;
+    letter-spacing: 0.6px;
 }
